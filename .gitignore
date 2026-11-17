@@ -1,0 +1,12 @@
+.godot/
+build/
+shots/
+.DS_Store
+export_presets.cfg
+export_credentials.cfg
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.keystore
+__pycache__/
